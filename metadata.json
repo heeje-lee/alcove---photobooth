@@ -1,0 +1,6 @@
+{
+  "name": "alcove",
+  "description": "Welcome to alcove — make memories anywhere. Analog 35mm digital photobooth strips for iOS.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
